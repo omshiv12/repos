@@ -13,5 +13,9 @@ public class calc{
   	 System.out.println("addtion of number is"+ a);
   	 int b=num1-num2;
   	 System.out.println("subtraction of numbers is"+ b);
+     int c=num1*num2;
+  	 System.out.println("multiplication of number is"+ c);
+  	 int d=num1/num2;
+  	 System.out.println("division of numbers is"+ d);
   }
 }
